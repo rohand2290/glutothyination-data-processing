@@ -23,6 +23,9 @@
             pandas
             numpy
             openpyxl
+            sqlalchemy
+            psycopg2
+            python-dotenv
           ]);
         };
       });
